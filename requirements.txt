@@ -1,0 +1,12 @@
+transformers[torch]
+accelerate
+matplotlib
+datasets
+sentencepiece
+protobuf
+py7zr
+rouge
+absl-py
+nltk
+rouge-score
+tqdm
