@@ -9,11 +9,6 @@ This project focuses on summarizing dialogues by fine-tuning the PEGASUS model u
 - [Model](#model)
 - [Setup](#setup)
 - [Training](#training)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
